@@ -1,4 +1,4 @@
-![Taco_Delivery_performance_Dashboard](https://github.com/user-attachments/assets/7af78b5d-9e14-4095-8104-e19dfbc03e16)# Taco-Delivery-Performance
+# Taco-Delivery-Performance
 # OVERVIEW
 This data is showing a company's taco delivery performance across locations and restaurants, revenue, taco size and types.
 # DATA SOURCE
